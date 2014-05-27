@@ -1,4 +1,5 @@
-package com.example.com.mindpin.sample;
+package com.mindpin.sample;
+
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -11,7 +12,7 @@ import android.view.Window;
 import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.Toast;
-
+import com.mindpin.widget.KCSlideFloatView;
 public class MainActivity extends Activity {
 
 

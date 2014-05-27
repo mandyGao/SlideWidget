@@ -1,4 +1,5 @@
-package com.example.com.mindpin.sample;
+package com.mindpin.widget;
+
 
 import android.annotation.SuppressLint;
 import android.app.Dialog;
