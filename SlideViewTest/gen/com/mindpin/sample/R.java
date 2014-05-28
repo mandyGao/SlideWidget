@@ -93,7 +93,6 @@ public final class R {
          */
         public static final int AppTheme=0x7f070001;
         /** 模糊
-模糊
          */
         public static final int dialog=0x7f070002;
         public static final int main_menu_animstyle=0x7f070003;
